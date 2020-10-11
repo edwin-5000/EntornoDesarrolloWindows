@@ -28,3 +28,14 @@ ssh-copy-id [email]
 cd ~/.ssh 
 cat id_rsa.pub
 
+# commit
+git commit -m "Subiendo comadno git"
+
+# hacer seguimiento a todo
+
+git add .
+
+# enviar al git hub
+
+git push -u origin main
+
